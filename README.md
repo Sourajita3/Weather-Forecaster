@@ -1,2 +1,2 @@
 # Weather-Predictor
-It forecasts weather of any city with description.
+It predicts weather of any city with description.
